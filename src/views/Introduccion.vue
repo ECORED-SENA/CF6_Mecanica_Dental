@@ -7,7 +7,13 @@
       .titulo-principal__numero
         span
           i.fas.fa-info
-      h1 Introducción
+      h1(data-aos="fade-right") Introducción
+
+    p.text-center(data-aos="fade-right") Estimado aprendiz bienvenido al componente formativo <b>“Análisis de la prótesis total”.</b> Para iniciar consulte el siguiente video y conozca más:
+
+    figure
+    .video
+      iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
 </template>
 
