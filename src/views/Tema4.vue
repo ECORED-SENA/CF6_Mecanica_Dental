@@ -33,7 +33,7 @@
             | Densidad y peso, forma y tamaño adecuados.
           li  
             i.fas.fa-circle.color-fa_circle
-            | Barato, reproducible y fácil de fabricar          
+            | Barato, reproducible y fácil de fabricar.          
 
     Separador
 

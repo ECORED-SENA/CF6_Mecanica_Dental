@@ -373,12 +373,12 @@ export default {
       },
       {
         nombre: 'Zuleidy María Ruíz Torres',
-        cargo: 'Producción audiovisual',
+        cargo: 'Revisión de guión audiovisual',
         centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Validación de diseño y contenido',
+        nombre: 'Maria Camila Ovalle Ospina',
+        cargo: 'Validación de contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },

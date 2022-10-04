@@ -116,7 +116,7 @@
                   span 6
                 | Se conserva las estructuras del sistema masticatorio, evitando su posible deterioro.
           .col-lg-3.px-5.px-lg-0.d-flex.justify-content-md-center
-            img.img-t(data-aos="fade-left")(src='@/assets/curso/tema2/img09.png', alt='')
+            img.img-t.m_right1(data-aos="fade-left")(src='@/assets/curso/tema2/img09.png', alt='')
 
       .row.justify-content-center
         .col-lg-10
