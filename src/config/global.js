@@ -72,12 +72,6 @@ export default {
             titulo: 'Función de la prótesis total',
             hash: 't_2_3',
           },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.4',
-            titulo: 'Indicaciones y precauciones',
-            hash: 't_2_4',
-          },
         ],
       },
       {

@@ -55,40 +55,40 @@
           .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
             figure
               img.img-t.m-auto(src='@/assets/curso/tema1/img03.svg', alt='')
-          .col-lg-7(data-aos="fade-left")
+          .col-lg-7(data-aos="fade-left").ms-3.ms-lg-0 
             ol.lista-ol--cuadro
               li 
                 .lista-ol--cuadro__vineta
                   span 1
-                | Los establecimientos deben implementar el Sistema de Gestión de Seguridad y Salud en el Trabajo.
+                p.m-0.me-5.me-lg-0 Los establecimientos deben implementar el Sistema de Gestión de Seguridad y Salud en el Trabajo.
               li 
                 .lista-ol--cuadro__vineta
                   span 2
-                | Mantener los ambientes, equipos, instrumentos, materias primas, componentes, repuestos y dispositivos médicos terminados en condiciones de higiene, orden y aseo.
+                p.m-0.me-5.me-lg-0 Mantener los ambientes, equipos, instrumentos, materias primas, componentes, repuestos y dispositivos médicos terminados en condiciones de higiene, orden y aseo.
               li 
                 .lista-ol--cuadro__vineta
                   span 3
-                | Prevenir el agua estancada, polvo en la atmósfera y garantizar la protección de establecimiento ante factores ambientales y presencia de vectores y plagas.
+                p.m-0.me-5.me-lg-0 Prevenir el agua estancada, polvo en la atmósfera y garantizar la protección de establecimiento ante factores ambientales y presencia de vectores y plagas.
               li 
                 .lista-ol--cuadro__vineta
                   span 4
-                | Garantizar el suministro de agua para consumo humano y de sus instalaciones físicas, así como el mantenimiento de la red e instalaciones de energía y gas, e instruir a los trabajadores sobre el uso seguro de estas fuentes para prevenir accidentes al interior del establecimiento.
+                p.m-0.me-5.me-lg-0 Garantizar el suministro de agua para consumo humano y de sus instalaciones físicas, así como el mantenimiento de la red e instalaciones de energía y gas, e instruir a los trabajadores sobre el uso seguro de estas fuentes para prevenir accidentes al interior del establecimiento.
               li 
                 .lista-ol--cuadro__vineta
                   span 5
-                | Identificar claramente los equipos utilizados para el control de incendios y disponerlos en lugares contiguos donde exista el riesgo de incendio y, capacitar al personal sobre su manipulación y uso.
+                p.m-0.me-5.me-lg-0 Identificar claramente los equipos utilizados para el control de incendios y disponerlos en lugares contiguos donde exista el riesgo de incendio y, capacitar al personal sobre su manipulación y uso.
               li 
                 .lista-ol--cuadro__vineta
                   span 6
-                | Capacitar y hacer cumplir al personal las prácticas de higiene y el sistema de gestión de seguridad y salud en el trabajo.
+                p.m-0.me-5.me-lg-0 Capacitar y hacer cumplir al personal las prácticas de higiene y el sistema de gestión de seguridad y salud en el trabajo.
               li 
                 .lista-ol--cuadro__vineta
                   span 7
-                | Dotar de vestuario de trabajo y elementos de protección a sus empleados, incluyendo el requerido para uso de visitantes y trabajadores temporales, de acuerdo con la actividad que estos desempeñen.
+                p.m-0.me-5.me-lg-0 Dotar de vestuario de trabajo y elementos de protección a sus empleados, incluyendo el requerido para uso de visitantes y trabajadores temporales, de acuerdo con la actividad que estos desempeñen.
               li 
                 .lista-ol--cuadro__vineta
                   span 8
-                | Contar con un botiquín de fácil acceso y con todos elementos necesarios para la administración de primeros auxilios.
+                p.m-0.me-5.me-lg-0 Contar con un botiquín de fácil acceso y con todos elementos necesarios para la administración de primeros auxilios.
 
     Separador
 
