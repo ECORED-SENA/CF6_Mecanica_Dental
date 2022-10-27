@@ -203,7 +203,8 @@ export default {
       referencia:
         'Navas , E. (2018). Prevención de riesgos laborales, sector sanitario: riesgos específicos del trabajo de protésicos dentales (2a. ed.). Editorial ICB.',
       tipo: 'Módulo 6',
-      link: 'https://elibro.net/es/lc/senavirtual/titulos/111411',
+      link:
+        'https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/111411',
     },
   ],
   glosario: [
@@ -281,27 +282,31 @@ export default {
     {
       referencia:
         'García, V. (2017). La enseñanza bimodal en la asignatura "Dentaduras parciales removibles" y su incidencia en el rendimiento estudiantil. Universidad Central de Venezuela.',
-      link: 'https://elibro.net/es/lc/senavirtual/titulos/112051',
+      link:
+        'https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/112051',
     },
     {
       referencia:
         'Matiz, J. (2014). Temas de rehabilitación oral: acrílicos dentales. 1. Clínica-laboratorio. ECOE Ediciones.',
-      link: 'https://elibro.net/es/lc/senavirtual/titulos/122433',
+      link:
+        'https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/122433',
     },
     {
       referencia:
         'Navas, E. (2018). Prevención de riesgos laborales, sector sanitario: riesgos específicos del trabajo de protésicos dentales. (2ª. ed.). Editorial ICB.',
-      link: 'https://elibro.net/es/lc/senavirtual/titulos/111411',
+      link:
+        'https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/111411',
     },
     {
       referencia:
-        'Phillips, J. (2009). Ciencia de los materiales dentales. (11ª. ed). Interamericana',
+        'Phillips, J. (2009). Ciencia de los materiales dentales. (11ª. ed). Interamericana.',
       link: '',
     },
     {
       referencia:
-        'Riojas, M. (2014). Anatomía dental. (3ª. ed.). Editorial El Manual Moderno.',
-      link: 'https://elibro.net/es/lc/elibrocom/titulos/39706',
+        'Esponda Vila, R. (2019). Anatomía dental. Universidad Nacional Autónoma de México (UNAM).',
+      link:
+        'https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/187393',
     },
     {
       referencia:

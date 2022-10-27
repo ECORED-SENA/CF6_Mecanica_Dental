@@ -14,7 +14,7 @@
           img.img-t.m-auto(src='@/assets/curso/tema4/img01.png', alt='')
       .col-lg-7
         .cajon.color-primario.bg_color1.p-4.mb-4(data-aos="fade-left")
-          p.m-0.ms-4 Un biomaterial dental está creado para estar en contacto con tejidos vivos durante un período de tiempo, con la finalidad de completar el tejido y ayudar a mejorar su funcionamiento sin afectar al resto del organismo.  Los materiales dentales utilizados para confeccionar las prótesis totales deben permitir que al momento de su diseño se tengan en cuenta no solo las condiciones clínicas del modelo para poder reemplazar lo mejor posible la fisiología de cada paciente, si no que los materiales sean biocompatibles, seguros y confortables. Los biomateriales deben tener las siguientes características: 
+          p.m-0.ms-4 Un biomaterial dental está creado para estar en contacto con tejidos vivos durante un período de tiempo, con la finalidad de completar el tejido y ayudar a mejorar su funcionamiento sin afectar al resto del organismo.  Los materiales dentales utilizados para confeccionar las prótesis totales deben permitir que al momento de su diseño se tengan en cuenta no solo las condiciones clínicas del modelo para poder reemplazar lo mejor posible la fisiología de cada paciente, sino que los materiales sean biocompatibles, seguros y confortables. Los biomateriales deben tener las siguientes características: 
         ul.lista-ul--color.ms-lg-5(data-aos="fade-left")
           li 
             i.fas.fa-circle.color-fa_circle
@@ -30,7 +30,7 @@
             | Buena resistencia mecánica. 
           li 
             i.fas.fa-circle.color-fa_circle
-            | Densidad y peso, forma y tamaño adecuados.
+            | Densidad, peso, forma y tamaño adecuados.
           li  
             i.fas.fa-circle.color-fa_circle
             | Barato, reproducible y fácil de fabricar.          
@@ -60,7 +60,7 @@
     Separador
 
     #t_4_2.titulo-segundo.color-acento-contenido(data-aos="zoom-out-right")
-        h2 4.2. Manipulación 
+        h2 4.2 Manipulación 
 
     .row.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-1
@@ -230,14 +230,14 @@
           p Una de las principales propiedades es la absorción de agua que se produce de forma muy lenta, debido a las propiedades polares de moléculas de resina. La solubilidad de los materiales resinosos en el medio oral es despreciable desde el punto de vista clínico. La falta de polimerización de la resina provoca la presencia de monómero residual.      
           p Otros problemas asociados con la sorción de agua es la colonización de microorganismos especialmente por hongos <b><em>cándida albicans</em></b>.    
 
-    p La absorción de agua es un mecanismo que consiste en la difusión de moléculas de agua por parte de las moléculas de resina, durante un tiempo determinado hasta quedar totalmente copadas o saturadas, es decir, al colocar la resina acrílica en un medio líquido absorbe lentamente pequeñas cantidades de agua (Phillips, 2009). En tal punto se produce una deformación dimensional de la resina acrílica, que clínicamente no se considera significativa. Toledano (2009) menciona “este cambio dimensional se ha establecido en torno al 0,23% por cada 1% de incremento en el peso por absorción de agua”. La absorción de agua se considera una característica indeseable de las resinas acrílicas, igualmente, Toledano (2009) indica que “desde el punto de vista clínico se debe evitar el mojado y secado de la base de prótesis acabada, ya que puede producir deformaciones dimensionales irreversibles.
+    p La absorción de agua es un mecanismo que consiste en la difusión de moléculas de agua por parte de las moléculas de resina, durante un tiempo determinado hasta quedar totalmente copadas o saturadas, es decir, al colocar la resina acrílica en un medio líquido absorbe lentamente pequeñas cantidades de agua (Phillips, 2009). En tal punto se produce una deformación dimensional de la resina acrílica, que clínicamente no se considera significativa. Toledano (2009) menciona “este cambio dimensional se ha establecido en torno al 0,23% por cada 1% de incremento en el peso por absorción de agua”. La absorción de agua se considera una característica indeseable de las resinas acrílicas, igualmente, Toledano (2009) indica que “desde el punto de vista clínico se debe evitar el mojado y secado de la base de prótesis acabada, ya que puede producir deformaciones dimensionales irreversibles".
 
     Separador
 
     #t_4_5.titulo-segundo.color-acento-contenido(data-aos="zoom-out-right")
         h2 4.5 Propiedades mecánicas
 
-    p Partiendo del conocimiento en el manejo y manipulación de los materiales dentales es también importante apoyarse en la información que proporciona las fichas técnicas que los proveedores facilitan para identificar no solo los tiempos de trabajo o de manipulación, si no también:
+    p Partiendo del conocimiento en el manejo y manipulación de los materiales dentales es también importante apoyarse en la información que proporciona las fichas técnicas que los proveedores facilitan para identificar no solo los tiempos de trabajo o de manipulación, sino también:
 
     .bg_14.p-4.mb-4
       .row.justify-content-center

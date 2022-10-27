@@ -66,7 +66,7 @@
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="zoom-out-right")
         h2 2.2 Evolución de la prótesis total
 
-    p.mb-5 Desde las primeras civilizaciones de la humanidad para reemplazar los dientes faltantes en las personas se utilizaban los dientes de los animales, estos se unían por medio de hilos o banda s de oro; la prótesis total ha tenido una evolución muy significativa, en el siguiente video se puede evidenciar este recorrido: 
+    p.mb-5 Desde las primeras civilizaciones de la humanidad para reemplazar los dientes faltantes en las personas se utilizaban los dientes de los animales, estos se unían por medio de hilos o bandas de oro; la prótesis total ha tenido una evolución muy significativa, en el siguiente video se puede evidenciar este recorrido: 
 
     figure
     .video
@@ -82,7 +82,7 @@
         figure
           img.img-t.d-none.d-lg-block(src='@/assets/curso/tema1/img04.svg', alt='')
       .col-lg-11
-        p.m-0 Las prótesis totales se elaboran teniendo en cuenta la solicitud del clínico y las condiciones que presentan los modelos de trabajo, cuya finalidad es realizar la restauración morfofisiológica del paciente edéntulo total, permitiendo la recuperación de la estética dentofacial y de funciones tan importantes como la masticación, la deglución y la fonación, en la siguiente infografía se presentan otras funciones: 
+        p.m-0 Las prótesis totales se elaboran teniendo en cuenta la solicitud del clínico y las condiciones que presentan los modelos de trabajo, cuya finalidad es realizar la restauración morfofisiológica del paciente edéntulo total, permitiendo la recuperación de la estética dentofacial y de funciones tan importantes como la masticación, la deglución y la fonación, a continuación se presentan otras funciones: 
 
     .bg_5
       .bg_4.mb-5.pt-3
@@ -106,7 +106,7 @@
               li 
                 .lista-ol--cuadro__vineta
                   span 4
-                | Recupera la dimensión vertical (altura que hay desde la punta de la nariz al mentón), que se había perdido producto de la ausencia de dientes y que se manifiesta en forma de arrugas en la zona perilabial y depresiones en los labios, dando la impresión de vejez prematura. Al recuperarla, no solo se recupera la dimensión vertical, si no también se recupera la tonicidad de los músculos perilabiales y labiales, haciendo que la persona se vea mucho más joven.
+                | Recupera la dimensión vertical (altura que hay desde la punta de la nariz al mentón), que se había perdido producto de la ausencia de dientes y que se manifiesta en forma de arrugas en la zona perilabial y depresiones en los labios, dando la impresión de vejez prematura. Al recuperarla, no solo se recupera la dimensión vertical, sino también se recupera la tonicidad de los músculos perilabiales y labiales, haciendo que la persona se vea mucho más joven.
               li 
                 .lista-ol--cuadro__vineta
                   span 5
@@ -120,7 +120,7 @@
 
       .row.justify-content-center
         .col-lg-10
-          p Desde el momento en que el laboratorista recibe los modelos de trabajo y la prescripción clínica se deben tener en cuenta no solo las indicaciones que se observan en la orden de trabajo, sino también las precauciones necesarias para la elaboración del dispositivo solicitado, permitiendo así trabajar con los elementos de protección personal necesarios, además de garantizar que los materiales utilizados presentan las características de un dispositivo médico sobre medida bucal, que permite su uso sin mayores probabilidades de causar efectos adversos en las personas, es decir, que sean biocompatibles.
+          p Desde el momento en que el laboratorista recibe los modelos de trabajo y la prescripción clínica se deben tener en cuenta no solo las indicaciones que se observan en la orden de trabajo, si no también las precauciones necesarias para la elaboración del dispositivo solicitado, permitiendo así trabajar con los elementos de protección personal necesarios, además de garantizar que los materiales utilizados presentan las características de un dispositivo médico sobre medida bucal, que permite su uso sin mayores probabilidades de causar efectos adversos en las personas, es decir, que sean biocompatibles.
 
 
 

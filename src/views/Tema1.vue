@@ -17,7 +17,7 @@
     Separador
 
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="zoom-out-right")
-        h2 1.1. Lineamientos para su funcionamiento 
+        h2 1.1 Lineamientos para su funcionamiento 
 
     .row.align-items-center.mb-5
       .col-lg-8(data-aos="fade-right")
@@ -93,7 +93,7 @@
     Separador
 
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="zoom-out-right")
-        h2 1.2. Equipamiento 
+        h2 1.2 Equipamiento 
 
     .row.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-1
@@ -111,7 +111,7 @@
     Separador
 
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos="zoom-out-right")
-        h2 1.3. Talento humano 
+        h2 1.3 Talento humano 
 
     .row.justify-content-center.align-items-center
       .col-lg-5(data-aos="fade-right")

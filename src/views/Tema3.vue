@@ -19,7 +19,7 @@
               | Prótesis total convencional. 
             li 
               i.fas.fa-circle.color-fa_circle
-              | Prótesis total implanto soportada e implanto retenida (híbrida). 
+              | Prótesis total implantosoportada e implanto retenida (híbrida). 
             li  
               i.fas.fa-circle.color-fa_circle
               | Prótesis total removible sobre implantes (sobredentadura).
@@ -58,7 +58,7 @@
     Separador
 
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos="zoom-out-right")
-        h2 3.2 Implanto mucosoportadas
+        h2 3.2 Implantomucosoportadas
 
     .row.align-items-center.mb-5
       .col-lg-7(data-aos="fade-right")
@@ -71,7 +71,7 @@
           img.img-t.d-none.d-lg-block(src='@/assets/curso/tema3/img04.png', alt='')
 
     LineaTiempoD.color-primario.mb-5(data-aos="fade-right")
-      .row(numero="1" titulo="Prótesis total implanto soportada e implanto retenida (híbrida)")
+      .row(numero="1" titulo="Prótesis total implantosoportada e implanto retenida (híbrida)")
         .col-md-12.mb-4.mb-md-0
           p.mt-4.mt-lg-0 Esta prótesis se fija en los implantes mediante unos tornillos que aguantan la estructura de metal que funciona como base para la retención de resina.      
           figure
