@@ -276,11 +276,6 @@ export default {
     },
     {
       referencia:
-        'Esponda, R. (2019). Anatomía dental. Universidad Nacional Autónoma de México (UNAM).',
-      link: 'https://docer.com.ar/doc/xx088xe',
-    },
-    {
-      referencia:
         'García, V. (2017). La enseñanza bimodal en la asignatura "Dentaduras parciales removibles" y su incidencia en el rendimiento estudiantil. Universidad Central de Venezuela.',
       link:
         'https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/112051',
